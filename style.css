@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 60vh;
+    gap: 20px;
+    background-color: aliceblue;
+}
+p {
+    color: rebeccapurple;
+    background-color: aqua;
+    margin: 0;
+    text-align: center;
+}
