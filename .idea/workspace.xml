@@ -59,7 +59,7 @@
       <workItem from="1642082287676" duration="5557000" />
       <workItem from="1642332229086" duration="610000" />
       <workItem from="1642514096680" duration="3709000" />
-      <workItem from="1642520517472" duration="83000" />
+      <workItem from="1642520517472" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="added html">
       <created>1641308616442</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642518283534</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: class7 added to github">
+      <created>1642520684129</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642520684129</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
